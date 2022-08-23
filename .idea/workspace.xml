@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cad4a176-e084-4c0e-b400-ca2fca563adc" name="Changes" comment="" />
+    <list default="true" id="7383b192-2b87-437d-ba9d-3ed53e63a00f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Intro_To_Classes/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Classes/src/com/intro/classes/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Classes/src/com/intro/classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Encapsulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Encapsulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Encapsulation/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_To_Encapsulation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_To_Classes/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_To_Classes/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_To_Classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaApplications.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Intro_To_Classes/IntroToClasses.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2DY1yDYBgixu0AoX9sa7d87CxEu" />
+  <component name="ProjectId" id="2Dak7CNuYkerfWqDGRfGr76aBc7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,16 +46,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Intro_To_Classes" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cad4a176-e084-4c0e-b400-ca2fca563adc" name="Changes" comment="" />
-      <created>1660861457643</created>
+      <changelist id="7383b192-2b87-437d-ba9d-3ed53e63a00f" name="Changes" comment="" />
+      <created>1660944420164</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660861457643</updated>
-      <workItem from="1660861482279" duration="79000" />
+      <updated>1660944420164</updated>
+      <workItem from="1660944423607" duration="767000" />
+      <workItem from="1660945210832" duration="252000" />
+      <workItem from="1660945470229" duration="201000" />
+      <workItem from="1660945681950" duration="160000" />
+      <workItem from="1660945848792" duration="7000" />
     </task>
     <servers />
   </component>
@@ -46,5 +85,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Intro_To_Classes/src/com/intro/classes/Ball.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
