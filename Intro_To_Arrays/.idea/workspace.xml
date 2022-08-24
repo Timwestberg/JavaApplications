@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37b1f0ec-6321-45cb-9e51-fd852f5f78b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/Intro_To_Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/out/production/Intro_To_Arrays/com/Intro/arrays/Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/src/com/Intro/arrays/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/src/com/Intro/arrays/Arrays.java" afterDir="false" />
+    <list default="true" id="d7f76b79-597d-49ca-b9a5-38745f1b8a3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_To_Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Intro/arrays/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Intro/arrays/ArrayPractice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/misc.xml" afterDir="false" />
@@ -22,11 +21,12 @@
       <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/IntroToHashMaps.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/out/production/IntroToHashMaps/com/intro/hashmap/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/src/com/intro/hashmap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intro_To_Sorting/src/com/intro/sorting/Sorting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro_To_Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Intro_To_Classes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Intro_To_Polymorphism/src/com/intro/polymorphism/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Intro_To_Polymorphism/src/com/intro/polymorphism/Polymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2DanXF9y9NQOJg7IYMqeRed7wNn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2DluNFWCxM1rXI4T2DNj8E35mQm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,13 +66,39 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.intro.classes.Main" />
-      <module name="IntroToClasses" />
+  <component name="RunManager" selected="Application.ArrayPractice">
+    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Intro.arrays.ArrayLists" />
+      <module name="Intro_To_Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.intro.classes.*" />
+          <option name="PATTERN" value="com.Intro.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Intro.arrays.ArrayPractice" />
+      <module name="Intro_To_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Intro.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Intro.arrays.Arrays" />
+      <module name="Intro_To_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Intro.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,19 +108,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayPractice" />
+        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.ArrayLists" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37b1f0ec-6321-45cb-9e51-fd852f5f78b3" name="Changes" comment="" />
-      <created>1660946101489</created>
+      <changelist id="d7f76b79-597d-49ca-b9a5-38745f1b8a3a" name="Changes" comment="" />
+      <created>1661285956465</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660946101489</updated>
-      <workItem from="1660946103579" duration="3765000" />
+      <updated>1661285956465</updated>
+      <workItem from="1661285960116" duration="3929000" />
+      <workItem from="1661364274223" duration="967000" />
     </task>
     <servers />
   </component>
@@ -101,5 +140,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

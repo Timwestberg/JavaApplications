@@ -26,7 +26,7 @@ public class Polymorphism {
         howl.makeSound();
 
         /**
-         *  We are able to pass Polymophric Parameters
+         *  We are able to pass Polymophric Arguments
          *  and the system is able to figure out which methods are supposed to be called based on the class
          */
 

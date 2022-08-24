@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37b1f0ec-6321-45cb-9e51-fd852f5f78b3" name="Changes" comment="">
+    <list default="true" id="cc9e3fae-cf87-4362-a42c-eb35feac2948" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/modules.xml" afterDir="false" />
@@ -9,24 +9,24 @@
       <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/Intro_To_Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/out/production/Intro_To_Arrays/com/Intro/arrays/Arrays.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/src/com/Intro/arrays/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/src/com/Intro/arrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/IntroToHashMaps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/out/production/IntroToHashMaps/com/intro/hashmap/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intro_To_HashMaps/src/com/intro/hashmap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intro_To_Arrays/src/com/Intro/arrays/ArrayPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroToHashMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntroToHashMaps/com/intro/hashmap/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intro/hashmap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intro_To_Sorting/src/com/intro/sorting/Sorting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro_To_Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Intro_To_Classes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Intro_To_Polymorphism/src/com/intro/polymorphism/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Intro_To_Polymorphism/src/com/intro/polymorphism/Polymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2DanXF9y9NQOJg7IYMqeRed7wNn" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2DoEkBsEY1VPXrU9UcrUNEOJ7q6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -58,11 +66,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.intro.classes.Main" />
-      <module name="IntroToClasses" />
+      <option name="MAIN_CLASS_NAME" value="com.intro.hashmap.Main" />
+      <module name="IntroToHashMaps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.intro.classes.*" />
+          <option name="PATTERN" value="com.intro.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +87,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37b1f0ec-6321-45cb-9e51-fd852f5f78b3" name="Changes" comment="" />
-      <created>1660946101489</created>
+      <changelist id="cc9e3fae-cf87-4362-a42c-eb35feac2948" name="Changes" comment="" />
+      <created>1661357182909</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660946101489</updated>
-      <workItem from="1660946103579" duration="3765000" />
+      <updated>1661357182909</updated>
+      <workItem from="1661357186123" duration="2700000" />
     </task>
     <servers />
   </component>
